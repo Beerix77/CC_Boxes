@@ -1,4 +1,4 @@
-# CC_Boxes
+# CC_LockBoxes
 Coding Challenge: Safety Deposit Boxes (Javascript)
 
 
